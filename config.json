@@ -1,0 +1,8 @@
+{
+    "socket_timeout": 20,
+    "host": "127.0.0.1",
+    "port": 53,
+    "upper_dns": "8.8.8.8",
+    "blacklist": ["abcd.com", "google.com"],
+    "answer": "Not Resolved"
+}
